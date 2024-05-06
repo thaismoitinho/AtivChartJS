@@ -1,1 +1,1 @@
-Atividade da faculdade utilizando Chart Js
+-- Pratica de aplicação de dashboards utilizando a biblioteca Chart Js.
